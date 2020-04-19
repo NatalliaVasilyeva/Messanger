@@ -1,0 +1,6 @@
+<resources>
+    <string name="Messenger">Messenger</string>
+    <string name="button_send">Send</string>
+    <string name="hint_enter_message">Input message</string>
+    <string name="chooser_title">How to send message?</string>
+</resources>
